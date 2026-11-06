@@ -4,3 +4,4 @@ flash/extracted/
 # log files the TI flasher writes to its working directory
 batchstatus.txt
 codes.txt
+logs/
